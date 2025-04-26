@@ -1,7 +1,7 @@
 # A Arte de Vender
 
 Este é o site oficial do curso **A Arte de Vender** — a fórmula por trás das vendas que quebram algoritmo, regra e dúvida.  
-Aqui você encontrará detalhes sobre o curso, benefícios, conteúdo programático e links para garantir o seu acesso.
+Aqui você encontrará detalhes sobre o curso, benefícios, Material completo do conteúdo  e links para garantir o seu acesso.
 
 ## Tecnologias Utilizadas
 - HTML5
@@ -15,7 +15,8 @@ Aqui você encontrará detalhes sobre o curso, benefícios, conteúdo programát
 - Imagem de capa
 
 ## Acesso Rápido
-- [Site ao Vivo](https://elisonaraujo.github.io/a-arte-de-vender-site/) *(link será gerado após publicação)*
+- [Site ao Vivo](https://elisonaraujo.github.io/a-arte-de-vender-site/) 
+(link será gerado após publicação)
 - [Instagram Oficial](https://www.instagram.com/elison.production)
 - [WhatsApp para Contato](https://wa.me/75998464543)
 - [Seja um Afiliado](https://dashboard.kiwify.com.br/join/affiliate/zWgKW6Wq)
