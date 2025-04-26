@@ -16,7 +16,7 @@ Aqui você encontrará detalhes sobre o curso, benefícios, Material completo do
 
 ## Acesso Rápido
 - [Site ao Vivo](https://elisonaraujo.github.io/a-arte-de-vender-site/) 
-https://github.com/elisonaraujo/A-arte-de-vender/blob/main/a%20arte%20de%20vender.index.html Instagram Oficial](https://www.instagram.com/elison.production)
+https://github.com/elisonaraujo/A-arte-de-vender/blob/main/a%20arte%20de%20vender.index.html [Instagram Oficial](https://www.instagram.com/elison.production)
 - [WhatsApp para Contato](https://wa.me/75998464543)
 - [Seja um Afiliado](https://dashboard.kiwify.com.br/join/affiliate/zWgKW6Wq)
 
